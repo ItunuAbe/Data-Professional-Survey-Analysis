@@ -41,8 +41,11 @@ The dataset was downloaded in Excel format, it was then uploaded into power quer
 6.	Finally, the data was loaded into Power BI for analysis.
 
 ## Exploratory Data Analysis
+
 In the phase I explored to understand the patterns and trends within the dataset to derive meaningful insights, I focused on various aspects such as gender and career switch percentage, average salary of different classes of data professionals, favorite programming language, happiness level, and top priority for a job.
-Insights
+
+## Insights
+
 I visualized gender and career change percentages using doughnut chart, of which 74% of the population were male and 59% of the survey takers switched careers into Data. 
 The average salary was visualized using a bar chart, obviously showing that the higher the level of education, the higher the salary. Also, data scientists are shown at the top of the chart for the highest paid while database developers earn an average of $33,000 yearly.
 Python won the most-used programming language used by the data professional, followed by R.
@@ -50,7 +53,8 @@ Python won the most-used programming language used by the data professional, fol
 Various level of Happiness was visualized using a gauge chart, happiness with salary is below the average of 5, showing 4.3, meaning most people are not happy with their current salary. Happiness with work-life balance and learning new things is a bit higher than the average.
 The Top priority when searching for a new job for 47% of the population is a better salary, followed by Remote work and Good Work-Life Balance.
 
-Conclusion
+## Conclusion
+
 If you are thinking of switching career to data, I recommend learning Python as a programming language. Also, do not stop expanding your knowledge base, the analysis shows that data scientists and PhD education level earn a lot more. Gender is not a barrier!
 
 
