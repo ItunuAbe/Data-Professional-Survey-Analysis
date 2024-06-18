@@ -46,11 +46,20 @@ In the phase I explored to understand the patterns and trends within the dataset
 
 ## Insights
 
-I visualized gender and career change percentages using doughnut chart, of which 74% of the population were male and 59% of the survey takers switched careers into Data. 
+![Screenshot (63)b](https://github.com/ItunuAbe/Data-Professional-Survey-Analysis/assets/110028869/fdb2371a-8231-4c00-a584-c89386be2b37)
+
+I visualized gender and career change percentages using doughnut chart, of which 74% of the population were male and 59% of the survey takers switched careers into Data.
+
 The average salary was visualized using a bar chart, obviously showing that the higher the level of education, the higher the salary. Also, data scientists are shown at the top of the chart for the highest paid while database developers earn an average of $33,000 yearly.
+
 Python won the most-used programming language used by the data professional, followed by R.
+
 43% (269) of the population finds it neither easy nor difficult to break into Data, 25% (156) finds it difficult, 21% (134) finds it easy, 7% finds it very difficult and 4% finds it very easy.
+
+![Screenshot (64)b](https://github.com/ItunuAbe/Data-Professional-Survey-Analysis/assets/110028869/cd288f3d-3a6b-481c-bb7f-fc7d6cfdc0b6)
+
 Various level of Happiness was visualized using a gauge chart, happiness with salary is below the average of 5, showing 4.3, meaning most people are not happy with their current salary. Happiness with work-life balance and learning new things is a bit higher than the average.
+
 The Top priority when searching for a new job for 47% of the population is a better salary, followed by Remote work and Good Work-Life Balance.
 
 ## Conclusion
