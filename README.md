@@ -1,11 +1,11 @@
-## Analysis report and findings of Data Professional dataset.
+## Data Professional Survey Response Analysis.
 
 ### Data Overview
  The dataset contains survey responses from data professionals in different countries and industries. This analysis aims to explore trends in career switch to tech, identify priorities, and what to look out for as a data professional. The dataset consists of 28 columns and 630 records.
  
 ### Data Wrangling(cleaning) Process:
 
-The dataset was downloaded in Excel format, it was then uploaded into power query for cleaning. The steps are:
+The dataset was downloaded in Excel format, and then uploaded to power query for cleaning. The steps are:
 1.	Removed columns with null values.
 
 ![Screenshot (53)](https://github.com/ItunuAbe/Data-Professional-Survey-Analysis/assets/110028869/89e9206e-e9e9-42cd-a361-7a99b7cc9529)
