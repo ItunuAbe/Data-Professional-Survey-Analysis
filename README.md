@@ -1,7 +1,7 @@
 ## Data Professional Survey Response Analysis.
 
 ### Data Overview
- The dataset contains survey responses from data professionals in different countries and industries. This analysis aims to explore trends in career switch to tech, identify priorities, and what to look out for as a data professional. The dataset consists of 28 columns and 630 records.
+This project examines survey responses from data professionals across various industries and countries, uncovering key trends in career transitions, priorities, and industry expectations. With a dataset comprising 28 columns and 630 records, the analysis explores factors influencing career shifts into tech, salary dynamics, preferred programming languages, and job satisfaction levels. By leveraging data cleaning and analytical techniques, the study provides actionable insights into the evolving landscape of data professionals and what aspiring individuals should consider when entering the field.
  
 ### Data Wrangling(cleaning) Process:
 
